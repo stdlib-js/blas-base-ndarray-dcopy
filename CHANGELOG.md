@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-19)
+## Unreleased (2026-04-20)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`cd1a4d3`](https://github.com/stdlib-js/stdlib/commit/cd1a4d3e3726a8e60d8a8f5b1999242d32b8435c) - **bench:** fix assertion messages _(by Athan Reines)_
 -   [`1d5c252`](https://github.com/stdlib-js/stdlib/commit/1d5c25243df33875488ee0f35c22f2d4f9bb8052) - **feat:** add `blas/base/ndarray/dcopy` [(#11542)](https://github.com/stdlib-js/stdlib/pull/11542) _(by Kaustubh Patange)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Kaustubh Patange
 
 </section>
